@@ -1,5 +1,4 @@
-# Smart-Home-Project
-
+<h3 align="center">BSmart-Home-Project</h3>
 Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee, and any of what's left of my free time.
 
 Cheers!
