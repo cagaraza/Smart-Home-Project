@@ -1,3 +1,4 @@
+![alt text](https://github.com/cagaraza/Smart-Home-Project/master/Assets/SmartHome.png)
 <font size="+2"><h1 align="center"><b>Smart-Home-Project</b></h1><font>
 <h4 align="center">Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee, and any of what's left of my free time.</h4>
 
