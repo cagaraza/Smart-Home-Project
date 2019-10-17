@@ -3,8 +3,8 @@ Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee,
 
 Cheers!
 
-# Setup
-##I. Installating an environment for development. 
+## Setup
+###I. Installating an environment for development. 
 
 1. Install miniconda
 
@@ -29,7 +29,7 @@ sudo vim ~/.bashrc
 Then at the bottom of the file just apppend the line:
 source activate myenv
 
-##II. Installing RPi.GPIO for connecting peripherals to RPi3
+###II. Installing RPi.GPIO for connecting peripherals to RPi3
 1. Update your Raspberry Pi
 sudo apt-get update
 sudo apt-get upgrade 
