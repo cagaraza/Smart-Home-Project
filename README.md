@@ -1,4 +1,7 @@
-![alt text](https://github.com/cagaraza/Smart-Home-Project/master/Assets/SmartHome.png)
+
+<p align="center">
+<img width="150" height="150" src="https://raw.githubusercontent.com/cagaraza/Smart-Home-Project/master/Assets/SmartHome.png">
+</p>
 <font size="+2"><h1 align="center"><b>Smart-Home-Project</b></h1><font>
 <h4 align="center">Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee, and any of what's left of my free time.</h4>
 
