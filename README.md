@@ -1,7 +1,7 @@
-<font size="+2"><h3 align="center"><b>Smart-Home-Project</b></h3><font>
-Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee, and any of what's left of my free time.
+<font size="+2"><h1 align="center"><b>Smart-Home-Project</b></h1><font>
+<h4 align="center">Anything smart home related that I can accomplish with a Raspberry Pi 3, coffee, and any of what's left of my free time.</h4>
 
-Cheers!
+<h4 align="center">Cheers!</h4>
 
 ## Setup
 ###I. Installating an environment for development. 
