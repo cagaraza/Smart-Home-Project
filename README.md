@@ -61,6 +61,9 @@ import RPi.GPIO as GPIO
 ## TO DO
 1. Verify working GPIO interface using hardware
 2. Choose first sensor and actuator integrate and test. 
-  Temp Sensor: OMRON Thermal Array Sensor
-  Actuator: AC Infrared Controller
+
+Sensor: OMRON Thermal Array Sensor
+
+Actuator: AC Infrared Controller
+
 3. Switching relays for emergency turn off.
