@@ -1,10 +1,11 @@
 """Resources"""
-"""https://automaticaddison.com/how-to-blink-an-led-on-raspberry-pi-3-model-b/"""
-"""https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/#prettyPhoto"""
+"""Demo script: https://automaticaddison.com/how-to-blink-an-led-on-raspberry-pi-3-model-b/"""
+"""Cool Rpi pinout reference guide: https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/#prettyPhoto"""
 
 
 import RPi.GPIO as GPIO    # Import Raspberry Pi GPIO library
 from time import sleep     # Import the sleep function from the time module
+
 GPIO.setwarnings(False)    # Ignore warning for now
 GPIO.setmode(GPIO.BOARD)   # Use physical pin numbering
 GPIO.setup(16, GPIO.OUT, initial=GPIO.LOW)   # Set pin 8 to be an output pin and set initial value to low (off)
